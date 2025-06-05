@@ -28,11 +28,11 @@ Je remercie également tous les professeurs et le personnel administratif qui on
 
 # 3 - Résumé
 
-Dans le cadre de mon stage de fin d'études à l'École Supérieure de Rabat en Management et Ingénierie (ESRMI), j'ai développé une solution innovante de **scraping automatique et de résumé intelligent d'articles de presse** utilisant les technologies de l'intelligence artificielle.
+Dans le cadre de ce projet de fin d'études de master à l'École Supérieure de Rabat en Management et Ingénierie (ESRMI), a été développée une solution innovante de **scraping automatique et de résumé intelligent d'articles de presse** utilisant les technologies de l'intelligence artificielle.
 
 ## Contexte du Projet
 
-À l'ère de l'information numérique, la quantité d'articles de presse publiés quotidiennement sur internet est considérable. Les professionnels, les étudiants et le grand public font face au défi de traiter et de synthétiser cette masse d'informations en temps réel. Notre solution répond à ce besoin en automatisant la collecte, l'analyse et la synthèse d'articles provenant de sources médiatiques reconnues.
+À l'ère de l'information numérique, la quantité d'articles de presse publiés quotidiennement sur internet est considérable. Les professionnels, les étudiants et le grand public font face au défi de traiter et de synthétiser cette masse d'informations en temps réel. Cette solution répond à ce besoin en automatisant la collecte, l'analyse et la synthèse d'articles provenant de sources médiatiques reconnues.
 
 ## Solution Développée
 
@@ -208,15 +208,6 @@ Les consultants utilisent la solution pour :
 
 ## Critères de Réussite
 
-### Critères Quantitatifs
-
-- **Temps de traitement** : < 30 secondes par article
-- **Taux de disponibilité** : > 99.5%
-- **Précision des résumés** : > 85% de satisfaction utilisateur
-- **Volume traité** : 100+ articles par jour
-
-### Critères Qualitatifs
-
 - **Pertinence** des informations extraites
 - **Cohérence** des résumés générés
 - **Facilité d'intégration** dans les workflows existants
@@ -254,16 +245,6 @@ Les consultants utilisent la solution pour :
 - **Inconvénients** : Requiert des compétences techniques, pas d'IA intégrée
 - **Limitation** : Pas de solution clé en main
 
-### Analyse Comparative
-
-| Critère              | Solutions Existantes | Notre Solution   |
-| -------------------- | -------------------- | ---------------- |
-| **Automatisation**   | Partielle            | Complète         |
-| **IA intégrée**      | Limitée              | Avancée (Gemini) |
-| **API disponible**   | Rare                 | Complète         |
-| **Coût**             | Élevé                | Optimisé         |
-| **Facilité d'usage** | Variable             | Simplifiée       |
-
 ## Opportunités Identifiées
 
 ### 1. Gap Technologique
@@ -298,7 +279,7 @@ Les consultants utilisent la solution pour :
 - **Maintenance constante** : Sensibles aux changements des sites cibles
 - **Pas d'intelligence intégrée** : Collecte brute sans traitement intelligent
 
-### 2. Avantages Concurrentiels de Notre Solution
+### 2. Avantages Concurrentiels de Cette Solution
 
 #### Innovation Technologique
 
@@ -320,7 +301,7 @@ Les consultants utilisent la solution pour :
 
 ## Positionnement Stratégique
 
-Notre solution se positionne comme une **alternative moderne et accessible** aux solutions existantes, combinant :
+Cette solution se positionne comme une **alternative moderne et accessible** aux solutions existantes, combinant :
 
 - La **simplicité d'usage** des agrégateurs grand public
 - La **puissance technique** des outils professionnels
@@ -335,7 +316,7 @@ Notre solution se positionne comme une **alternative moderne et accessible** aux
 
 ### Approche Agile Adaptée
 
-Nous avons adopté une **méthodologie agile adaptée** au contexte académique et aux contraintes du projet de fin d'études :
+Une **méthodologie agile adaptée** a été adoptée au contexte académique et aux contraintes du projet de fin d'études :
 
 #### 1. Sprints Hebdomadaires
 
@@ -374,7 +355,6 @@ Nous avons adopté une **méthodologie agile adaptée** au contexte académique 
 
 - **Git** : Contrôle de version distribuée
 - **GitHub** : Hébergement et collaboration
-- **Branches** : Feature branching strategy
 
 ### 2. Documentation
 
@@ -683,13 +663,13 @@ Tests                             ████████
 
 ## Introduction à l'Analyse et Conception
 
-La phase d'analyse et de conception constitue le **cœur stratégique** de notre projet. Elle transforme les besoins identifiés en une architecture technique robuste et une conception logicielle optimisée.
+La phase d'analyse et de conception constitue le **cœur stratégique** de ce projet. Elle transforme les besoins identifiés en une architecture technique robuste et une conception logicielle optimisée.
 
 ## Approche Méthodologique
 
 ### 1. Analyse Descendante (Top-Down)
 
-Nous avons adopté une approche **top-down** partant des besoins utilisateurs globaux pour descendre vers les détails techniques d'implémentation :
+Une approche **top-down** a été adoptée partant des besoins utilisateurs globaux pour descendre vers les détails techniques d'implémentation :
 
 - **Niveau Système** : Architecture globale et flux de données
 - **Niveau Service** : Décomposition en services métier
@@ -727,7 +707,7 @@ L'architecture suit les **principes SOA** (Service-Oriented Architecture) adapt�
 
 ## Vue d'Ensemble de l'Architecture
 
-Notre solution s'articule autour de **quatre couches principales** :
+Cette solution s'articule autour de **quatre couches principales** :
 
 1. **Couche Présentation** : API REST et contrôleurs
 2. **Couche Logique Métier** : Services spécialisés
@@ -1360,7 +1340,7 @@ Complete Data   Check Existing   Supabase    Search Index   REST JSON
 
 ## Vue d'Ensemble de l'Implémentation
 
-La phase de réalisation transforme notre conception en **solution opérationnelle** en exploitant un stack technologique moderne et robuste. Cette implémentation suit une approche **modulaire et scalable** garantissant la maintenabilité et l'évolutivité du système.
+La phase de réalisation transforme cette conception en **solution opérationnelle** en exploitant un stack technologique moderne et robuste. Cette implémentation suit une approche **modulaire et scalable** garantissant la maintenabilité et l'évolutivité du système.
 
 ## Architecture Technique Globale
 
@@ -1929,7 +1909,7 @@ Ce projet de fin d'études a permis de **développer avec succès** une solution
 
 #### Innovation Technologique
 
-Notre solution se distingue par **l'intégration native de l'IA** dans un pipeline de scraping automatisé, créant une chaîne de valeur complète depuis la collecte brute jusqu'à l'information synthétisée et exploitable.
+Cette solution se distingue par **l'intégration native de l'IA** dans un pipeline de scraping automatisé, créant une chaîne de valeur complète depuis la collecte brute jusqu'à l'information synthétisée et exploitable.
 
 #### Impact Pratique
 
@@ -1962,9 +1942,3 @@ L'**approche pédagogique innovante** de l'école, combinant théorie et pratiqu
 Ce projet illustre parfaitement la **convergence entre formation académique de qualité et innovation technologique**. Il démontre qu'avec les bonnes bases théoriques et un encadrement adapté, il est possible de créer des solutions techniques sophistiquées répondant aux enjeux contemporains de la transformation digitale.
 
 L'**École Supérieure de Rabat en Management et Ingénierie** forme ainsi des profils capables de **porter l'innovation** et de contribuer activement au développement technologique du Maroc et de la région.
-
----
-
-**Fin de Présentation**
-
-_Merci pour votre attention_
